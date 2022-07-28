@@ -6,5 +6,7 @@ the study presented a neural network baskstepping control for nonlinear uncertai
 
 ![Signal-flow-graph-of-the-perceptron-A-single-perceptron-is-not-very-useful-because-of-its](https://user-images.githubusercontent.com/103693616/181631879-d8a7c81a-2442-4c7c-b9ac-8dc69251ca91.png)
 
+Note:
+the adaptive_neural_network.m is the main file including all other functions, so someone who interated in runing the codes,first put all files in a folder and run the adaptive_neural_network.m. there are two system functions for which the control system is investigated. 
 
 
